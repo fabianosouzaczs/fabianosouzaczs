@@ -1,10 +1,11 @@
 ### Olá, sou Fabiano Souza, amante em tecnologia, infelizmente o tempo foi cruel comigo, pois, tudo que apreendi foi com o professor google, e sou auto de dada, amo muito o conhecimento que adquiri como a Tecnológica da informação T.I e agora estou entrando na aérea de virtualização com Proxmox e firewall com o PfSense, estou gostando muito de tudo que estou fazendo e apreendendo a cada dia!
 
 <div>
-<a href="https://github.com/fabianosouzaczs">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?fabianosouzaczs&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?fabianosouzaczs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href=" https://github.com/fabianosouzaczs">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username= fabianosouzaczs&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username= fabianosouzaczs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
 
 <!--
 **fabianosouzaczs/fabianosouzaczs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
