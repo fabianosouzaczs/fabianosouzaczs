@@ -1,8 +1,5 @@
 ### Olá, sou Fabiano Souza, amante em tecnologia, infelizmente o tempo foi cruel comigo, pois, tudo que apreendi foi com o professor google, e sou auto de dada, amo muito o conhecimento que adquiri como a Tecnológica da informação T.I e agora estou entrando na aérea de virtualização com Proxmox e firewall com o PfSense, estou gostando muito de tudo que estou fazendo e apreendendo a cada dia!
 
-[Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-
-
 
 <!--
 **fabianosouzaczs/fabianosouzaczs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
